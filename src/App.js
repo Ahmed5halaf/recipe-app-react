@@ -8,7 +8,7 @@ function App() {
       <BrowserRouter>
         <Category />
         <Pages />
-      </BrowserRouter>
+      </BrowserRouter> 
     </div>
   );
 }
